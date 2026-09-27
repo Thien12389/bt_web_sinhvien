@@ -17,13 +17,6 @@
 \- Public ra internet bằng Cloudflare Tunnel với domain thật
 
 
-
-\## Deadline
-
-(Deadline: 30/09/2026 23:59)
-
-
-
 \## Sinh Viên:
 
 Lê Đỗ Hoàng Thiện
